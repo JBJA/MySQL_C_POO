@@ -1,0 +1,5 @@
+﻿  POO_C++MySQL.cpp
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\Tarea MySQL C++ POO\POO_C++MySQL\POO_C++MySQL\Cliente.h(376,13): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\Tarea MySQL C++ POO\POO_C++MySQL\POO_C++MySQL\Cliente.h(375,12): warning C4101: 'fila': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\Tarea MySQL C++ POO\POO_C++MySQL\POO_C++MySQL\POO_C++MySQL.cpp(105,3): error C2360: la inicialización de 'op' se omite en la etiqueta 'case'
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\Tarea MySQL C++ POO\POO_C++MySQL\POO_C++MySQL\POO_C++MySQL.cpp(49): message : vea la declaración de 'op'
